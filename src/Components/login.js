@@ -19,7 +19,7 @@ import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import { useNavigate } from 'react-router-dom';
 
 
-const BASE_URL = process.env.REACT_APP_API_URL;
+const BASE_URL = 'https://beautybliss.onrender.com';
 // Define the keyframes for form animation
 const formAnimation = keyframes`
   from {
